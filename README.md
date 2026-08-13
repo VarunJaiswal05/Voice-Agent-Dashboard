@@ -25,10 +25,10 @@ CorezAI is a production SaaS dashboard that gives healthcare practice managers f
 ## Screenshots
 
 ### Login
-![Login](login%20page.png)
+![Login](login%20page.png?v=2)
 
 ### Overview
-![Overview](overview.png)
+![Overview](overview.png?v=2)
 
 ### Insights
 ![Insights](Insight.png)
