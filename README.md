@@ -22,6 +22,29 @@ CorezAI is a production SaaS dashboard that gives healthcare practice managers f
 - **Billing Module** — real-time minutes usage calculated directly from call duration data, with automatic billing period rollover
 - **Security** — full multi-tenant isolation, every query scoped to the authenticated session's clientId, auth guard on all API routes
 
+## Screenshots
+
+### Login
+![Login](login%20page.png)
+
+### Overview
+![Overview](overview.png)
+
+### Insights
+![Insights](Insight.png)
+
+### Calls
+![Calls](Call.png)
+
+### Transcripts
+![Transcripts](Transcript.png)
+
+### Recordings
+![Recordings](Recording.png)
+
+### Call Detail
+![Call Detail](Call%20Detail.png)
+
 ## Tech Stack
 
 | Technology | Purpose |
