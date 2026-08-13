@@ -162,10 +162,7 @@ prisma/
 
 ---
 
-## 📄 License
+## 📄 Note
 
-MIT
-
----
-
-*This is a portfolio documentation repository. The production codebase is maintained privately under the CorezAI organisation.*
+This repository is for portfolio documentation purposes only.
+All production code is maintained privately under the CorezAI organisation.
